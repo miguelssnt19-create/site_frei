@@ -1,8 +1,19 @@
 nav{
     display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 a{
     text-decoration: none;
     color: black;
+}
+
+h1{
+    font-size: 15px;
+    color: #1A2876;
+}
+
+a:hover{
+    color: #5AC2F2;
 }
