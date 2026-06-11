@@ -24,8 +24,9 @@ a:hover{
     position: fixed;
     left: 1;
     top: 850px;
-    width: 150px;
-
+    gap: 10px;
+    background-color: #E5A12B;
+    border-radius: 20px;
 }
 
 .a1:hover{
@@ -38,3 +39,4 @@ a:hover{
     display: flex;
     align-items: center;
 }
+oi migueu tudu bao?
