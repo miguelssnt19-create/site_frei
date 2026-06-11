@@ -39,4 +39,24 @@ a:hover{
     display: flex;
     align-items: center;
 }
-oi migueu tudu bao?
+
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #051e4e;
+    position: relative;
+    left: 500px;
+    width: 200px;
+    padding: 20px;
+}
+
+button{
+    padding: 10px;
+    background-color: #0057E1;
+    color:#E5A12B ;
+}
+
+.ti2{
+    color:#E5A12B ;
+}
