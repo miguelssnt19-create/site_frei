@@ -44,10 +44,10 @@ header{
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-color: #051e4e;
+    background-color: #224087;
     position: relative;
-    left: 500px;
-    width: 200px;
+    left: 400px;
+    width: 400px;
     padding: 20px;
 }
 
@@ -57,10 +57,30 @@ button{
     color:#E5A12B ;
 }
 
+.t1{
+    font-size: 80px;
+    text-align: center;
+}
+
 .ti2{
     color:#E5A12B ;
 }
 
 .a2{
+    color: #E5A12B;
+}
+
+.d1{
+    background-color: #224087;
+}
+
+.d1 h1{
+    color: #E5A12B;
+    font-size: 40px;
+    text-align: center;
+}
+
+.d1 p{
+    text-align: center;
     color: #E5A12B;
 }
