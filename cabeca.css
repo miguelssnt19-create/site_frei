@@ -40,34 +40,20 @@ a:hover{
     align-items: center;
 }
 
-header{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    background-color: #224087;
-    position: relative;
-    left: 400px;
-    width: 400px;
-    padding: 20px;
-}
 
-button{
-    padding: 10px;
-    background-color: #0057E1;
-    color:#E5A12B ;
-}
+
+
 
 .t1{
     font-size: 80px;
     text-align: center;
 }
 
-.ti2{
-    color:#E5A12B ;
-}
 
-.a2{
+
+main h2{
     color: #E5A12B;
+    text-align: center;
 }
 
 .d1{
@@ -92,5 +78,59 @@ button{
 }
 
 .d1 img{
+    padding-left: 50px;
+}
+
+.d2{
+    background-color: #8F49FF;
+    width: 800px;
+    
+}
+
+.d2 h1{
+    color: #E5A12B;
+    font-size: 40px;
+    text-align: center;
+}
+
+.d2 p{
+    text-align: center;
+    color: #E5A12B;
+}
+
+.d2 ul{
+    color: #E5A12B;
+}
+
+.d3{
+    background-color: #E5A12B;
+    width: 800px;
     padding-left: 20px;
+}
+
+.d3 h1{
+    color: #224087;
+    font-size: 40px;
+    text-align: center;
+}
+
+.d3 p{
+    text-align: center;
+    color: #224087;
+}
+
+.d3 h2{
+    color: #224087;
+    text-align: center;
+}
+
+.d3 ul{
+    color: #224087;
+}
+
+.dG{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
 }
