@@ -72,6 +72,8 @@ button{
 
 .d1{
     background-color: #224087;
+    width: 800px;
+  
 }
 
 .d1 h1{
@@ -83,4 +85,12 @@ button{
 .d1 p{
     text-align: center;
     color: #E5A12B;
+}
+
+.d1 ul{
+    color: #E5A12B;
+}
+
+.d1 img{
+    padding-left: 20px;
 }
