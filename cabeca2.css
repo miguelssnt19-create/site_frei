@@ -1,0 +1,38 @@
+
+body{
+    margin: 0px;
+    background-color: linear-gradient(to bottom, #2E3584, #262B4C);
+}
+
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(to bottom, #2E3584, #262B4C);
+    position: relative;
+    width: 100%;
+    height: 900px;
+}
+
+button{
+    padding: 10px;
+    background-color: #0057E1;
+    color:#E5A12B ;
+}
+
+.ti2{
+    color:#E5A12B ;
+}
+
+.a2{
+    color: #E5A12B;
+    text-decoration: none;
+}
+
+.D1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 300px;
+}
